@@ -1,2 +1,2 @@
 # SPRINT-SINTA
-test repository
+welcome to this rep! This is just a test!
